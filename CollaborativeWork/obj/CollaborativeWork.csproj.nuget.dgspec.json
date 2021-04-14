@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Repo1\\CollaborativeWork\\CollaborativeWork.csproj": {}
+    "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Compu de Samuel\\POO0121_GitHub\\CollaborativeWork\\CollaborativeWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Repo1\\CollaborativeWork\\CollaborativeWork.csproj": {
+    "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Compu de Samuel\\POO0121_GitHub\\CollaborativeWork\\CollaborativeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Repo1\\CollaborativeWork\\CollaborativeWork.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Compu de Samuel\\POO0121_GitHub\\CollaborativeWork\\CollaborativeWork.csproj",
         "projectName": "CollaborativeWork",
-        "projectPath": "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Repo1\\CollaborativeWork\\CollaborativeWork.csproj",
+        "projectPath": "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Compu de Samuel\\POO0121_GitHub\\CollaborativeWork\\CollaborativeWork.csproj",
         "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Repo1\\CollaborativeWork\\obj\\",
+        "outputPath": "C:\\Users\\Robert\\Documents\\Workspaces\\Repaso git y github\\Compu de Samuel\\POO0121_GitHub\\CollaborativeWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
